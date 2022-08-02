@@ -1,1 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.body{
+    
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 150%;
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 600px;
 
+}
+.content{
+    color: white;
+    align-items: center;
+    text-align: center;
+    font-family: 'Edu SA Beginner', cursive;
+    font-size: larger;
+}
+.container{
+    width:1110px;
+    height: 500px;
+    margin-top: 40px;
+    background-color: rgba(144, 77, 172, 0.3);
+}
+.p:hover{
+    font-weight: bolder;
+
+}
+
+h1:hover{
+    font-weight: bolder;
+
+}
